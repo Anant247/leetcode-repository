@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Anant247/leetcode-repository/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anant247/leetcode-repository/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anant247/leetcode-repository/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Anant247/leetcode-repository/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Anant247/leetcode-repository/tree/master/0075-sort-colors) |
 | [0876-middle-of-the-linked-list](https://github.com/Anant247/leetcode-repository/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anant247/leetcode-repository/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Anant247/leetcode-repository/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Anant247/leetcode-repository/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Anant247/leetcode-repository/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Anant247/leetcode-repository/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anant247/leetcode-repository/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
