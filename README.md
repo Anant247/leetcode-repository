@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anant247/leetcode-repository/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Anant247/leetcode-repository/tree/master/0007-reverse-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anant247/leetcode-repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anant247/leetcode-repository/tree/master/0001-two-sum) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anant247/leetcode-repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
