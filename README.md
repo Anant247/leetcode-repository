@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anant247/leetcode-repository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Anant247/leetcode-repository/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anant247/leetcode-repository/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Anant247/leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/Anant247/leetcode-repository/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anant247/leetcode-repository/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Anant247/leetcode-repository/tree/master/1732-find-the-highest-altitude) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anant247/leetcode-repository/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Anant247/leetcode-repository/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anant247/leetcode-repository/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Anant247/leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Anant247/leetcode-repository/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anant247/leetcode-repository/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anant247/leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anant247/leetcode-repository/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Anant247/leetcode-repository/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anant247/leetcode-repository/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
