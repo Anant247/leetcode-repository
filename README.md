@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anant247/leetcode-repository/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anant247/leetcode-repository/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Anant247/leetcode-repository/tree/master/0287-find-the-duplicate-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anant247/leetcode-repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/Anant247/leetcode-repository/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anant247/leetcode-repository/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Anant247/leetcode-repository/tree/master/1732-find-the-highest-altitude) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Anant247/leetcode-repository/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anant247/leetcode-repository/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Anant247/leetcode-repository/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anant247/leetcode-repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anant247/leetcode-repository/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Anant247/leetcode-repository/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Anant247/leetcode-repository/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Anant247/leetcode-repository/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anant247/leetcode-repository/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anant247/leetcode-repository/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anant247/leetcode-repository/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
