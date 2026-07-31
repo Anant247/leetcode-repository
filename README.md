@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anant247/leetcode-repository/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anant247/leetcode-repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Anant247/leetcode-repository/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anant247/leetcode-repository/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anant247/leetcode-repository/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Anant247/leetcode-repository/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anant247/leetcode-repository/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anant247/leetcode-repository/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Linked List
 |  |
 | ------- |
