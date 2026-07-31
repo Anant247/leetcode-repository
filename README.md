@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anant247/leetcode-repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Anant247/leetcode-repository/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anant247/leetcode-repository/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2079-watering-plants](https://github.com/Anant247/leetcode-repository/tree/master/2079-watering-plants) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anant247/leetcode-repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Simulation
+|  |
+| ------- |
+| [2079-watering-plants](https://github.com/Anant247/leetcode-repository/tree/master/2079-watering-plants) |
 <!---LeetCode Topics End-->
