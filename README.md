@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Anant247/leetcode-repository/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anant247/leetcode-repository/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2079-watering-plants](https://github.com/Anant247/leetcode-repository/tree/master/2079-watering-plants) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Anant247/leetcode-repository/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Anant247/leetcode-repository/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anant247/leetcode-repository/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Anant247/leetcode-repository/tree/master/0904-fruit-into-baskets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anant247/leetcode-repository/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Anant247/leetcode-repository/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Anant247/leetcode-repository/tree/master/3731-find-missing-elements) |
 ## Number Theory
 |  |
